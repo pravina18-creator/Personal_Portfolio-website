@@ -1,0 +1,16 @@
+### Frontend
+
+### Structure
+- `static/`: Contains static files such as CSS, JavaScript, and images.
+- `templates/`: Contains HTML templates.
+
+### Libraries Used
+- (List any libraries or frameworks used in the frontend)
+
+### Instructions
+1. Ensure Django is installed.
+2. Run the Django server:
+    ```bash
+    python manage.py runserver
+    ```
+3. Open your browser and navigate to `http://127.0.0.1:8000/`.

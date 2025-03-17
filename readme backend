@@ -1,0 +1,21 @@
+## Backend
+
+### Structure
+- `likhitha/`: Contains the Django app.
+- `manage.py`: Django management script.
+- `db.sqlite3`: SQLite database file.
+
+### Instructions
+1. Navigate to the backend directory.
+2. Run migrations:
+    ```bash
+    python manage.py migrate
+    ```
+3. Create a superuser (optional, for accessing the admin site):
+    ```bash
+    python manage.py createsuperuser
+    ```
+4. Run the Django server:
+    ```bash
+    python manage.py runserver
+    ```

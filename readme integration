@@ -1,0 +1,13 @@
+
+## Integration
+
+### Structure
+- `DJANGO/`: Contains project-level settings and configurations.
+
+### Instructions
+1. Ensure the settings are correctly configured.
+2. Include the app URLs in the project URLs.
+3. Run the Django server:
+    ```bash
+    python manage.py runserver
+    ```
